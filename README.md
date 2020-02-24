@@ -29,7 +29,7 @@ Your mission is to bring trees into the context of other classification approach
     * Logistic regression
     * Naive Bayes
     * Elastic net regression
-    * Decision tree
+    * Decision tree (CART)
     * Bagging
     * Random forest
     * Boosting
