@@ -1,0 +1,15 @@
+---
+title: "Untitled"
+author: "Hengle Li"
+date: "2/29/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+knitr::include_graphics('manytrees.png')
+```
+
